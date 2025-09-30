@@ -17,7 +17,7 @@ We sincerely appreciate your efforts in keeping this project secure. If you disc
 
 To report a security issue, please send an email or a WhatsApp message to our dedicated security contact.
 
-- **Email:** Clord3076@gmail.com@gmail.com
+- **Email:** Clord3076@gmail.com
 - **WhatsApp:** [+232 79729810](https://wa.me/23279729810)
 
 In your report, please provide as much detail as possible, including:

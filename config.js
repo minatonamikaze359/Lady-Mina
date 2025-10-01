@@ -26,7 +26,7 @@ import { fileURLToPath } from 'url'
 global.config = {
     /*============== STAFF ==============*/
     owner: [
-        ['23279729810', 'OmegaTech 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥', true],
+        ['8801405706180', 'Sasuke Uchia', true],
         ['989162872327', 'OmegaTech', true], // true: Mods
         ['989162872327', 'Queen-bella', false] // false: owner
     ],
@@ -39,7 +39,7 @@ global.config = {
     group: 'https://chat.whatsapp.com/FiGcVHByvd28Z1sT1OxWIY',
     logo: "https://",
     /*============= PAIRING =============*/
-    pairingNumber: '989162872327',
+    pairingNumber: '8801405706180',
     pairingAuth: true,
     /*============== API ==============*/
     APIs: {
